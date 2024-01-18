@@ -7,7 +7,7 @@
 ### 🛠 Stacks
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/Django_rest_framework-A50E15?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/-mysql-white?style=for-the-badge&logo=mysql"> <img src="https://img.shields.io/badge/flask-E13A34?style=for-the-badge&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"> <img src="https://img.shields.io/badge/-mysql-white?style=for-the-badge&logo=mysql"> <img src="https://img.shields.io/badge/flask-E13A34?style=for-the-badge&logo=flask&logoColor=white">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmin-bak&show_icons=true&theme=radical)
