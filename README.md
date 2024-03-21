@@ -4,7 +4,7 @@
 👍 좋은 코드뿐만 아니라 비즈니스적인 영향도 고려하는 개발자로 성장하고자 합니다. </br>
 🌱 배우기 위해 열정적으로 노력하며, 지식과 경험을 공유하며 함께 성장하고 싶습니다. </br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ribbon29)](https://solved.ac/ribbon29/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ribbon29@naver.com)](https://solved.ac/ribbon29@naver.com/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongmin-bak&show_icons=true&theme=radical)
 
