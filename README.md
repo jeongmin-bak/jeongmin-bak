@@ -1,9 +1,6 @@
 ### About Me 
 🧑🏻‍ 호기심이 많은 Full Stack 개발자입니다. </br>
 
-### Currently Developing Tools
-
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjm9673)](https://solved.ac/pjm9673/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
