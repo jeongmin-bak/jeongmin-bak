@@ -1,5 +1,5 @@
 ### About Me 
-🧑🏻‍ 호기심이 많은 Full Stack 개발자입니다. </br>
+🧑🏻‍ Full Stack 개발자입니다. </br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjm9673)](https://solved.ac/pjm9673/)
 
